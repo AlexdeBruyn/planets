@@ -1,3 +1,5 @@
 We are going on a trip to Mars. Hurrah!
 
 We'll need a spaceship and some survival equipment.
+
+It might be fun to try and add in a side trip to the miniature moons.
